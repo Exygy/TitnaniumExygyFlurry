@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Flurry module by Pierre Hunault @ Exygy
+author: Pierre Hunault
+license: Apache 2.0
+copyright: Exygy 2013
+
+
+# these should not be edited
+name: Flurry for iOs
+moduleid: exygy.flurry.ios
+guid: a9d6bca0-8d84-4b96-a7dd-93fdc5665a24
+platform: iphone
+minsdk: 3.1.3.GA
